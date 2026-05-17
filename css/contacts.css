@@ -104,3 +104,15 @@
   background-color: #0066ff;
   padding: 4px 20px;
 }
+
+.showmore-link {
+  text-transform: uppercase;
+  background-color: #151515;
+  padding: 13px;
+  color: #fff;
+  width: 225px;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+  margin-bottom: 70px;
+}
