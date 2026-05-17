@@ -24,6 +24,9 @@ function open(event) {
     .classList.add("tabs__content-item--active");
 }
 
+const menuBtn = document.querySelector("menu__btn");
+const menu = document.querySelector("menu__list");
+
 const swiper = new Swiper(".swiper", {
   effect: "fade",
   pagination: {
